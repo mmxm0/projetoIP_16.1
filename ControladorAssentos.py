@@ -142,27 +142,3 @@ class ControladorAssento:
                 listaObject.append(cadeira)
             self.__listaAssentos = listaObject
             arquivo.close()
-            
-                
-        
-
-
-
-
-                        
-        
-        
-
-
-
-
-
-  
-                    
-
-
-
-
-
-
-
