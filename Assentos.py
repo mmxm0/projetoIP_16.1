@@ -21,8 +21,3 @@ class Assento:
 
     def setDisponivel(self,seDisponivel):
         self.__disponivel = seDisponivel
-
-    
-
-
-    
